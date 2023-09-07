@@ -1,0 +1,1 @@
+{"accessBindingDeltas": [{"action": "REMOVE", "accessBinding": {"roleId": "storage.editor", "subject": {"id": "aje9hq5irc1p6a2b654h", "type": "serviceAccount"}}}]}
